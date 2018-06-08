@@ -9,7 +9,7 @@ from urbanaccess.utils import log
 
 # set the number of Pandana Networks in memory to arbitrary 40 for
 # removing low connectivity nodes
-reserve_num_graphs(40)
+#reserve_num_graphs(40)
 
 
 def ua_network_from_bbox(lat_min=None, lng_min=None, lat_max=None,
